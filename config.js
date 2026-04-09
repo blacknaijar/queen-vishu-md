@@ -9,6 +9,6 @@ SESSION_ID: process.env.SESSION_ID || "zU4C2AYS#T0PU1miMX-udVY9Nv0oZRPKVFOuYw5Hj
 AUTO_RECORDING: process.env.AUTO_RECORDING || "true",
 ANTI_BAD_WORD: process.env.ANTI_BAD_WORD || "true",
 AUTO_REPLY: process.env.AUTO_REPLY || "true",
-ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/l06cb8.jpg",
+ALIVE_IMG: process.env.ALIVE_IMG || "/storage/emulated/0/Pictures/WhatsApp/IMG-20260407-WA0013.jpg",
 ALIVE_MSG: process.env.ALIVE_MSG || "HELLO IM queen vishu-md MD CREATED BY vishwa <NOW ALIVE> "
 };
